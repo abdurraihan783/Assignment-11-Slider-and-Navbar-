@@ -1,0 +1,22 @@
+.container{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+.btn-primary{
+    background-color: #FFC107;
+    color: black;
+    border: none;
+}
+.c_prev, .c_next {
+    top: 85%;
+    width: 10%;
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
